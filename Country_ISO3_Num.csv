@@ -1,0 +1,78 @@
+Country,ISO3code,NumOfUsers
+United States,USA,258
+India,IND,185
+United Kingdom,GBR,62
+Germany,DEU,52
+Canada,CAN,32
+France,FRA,26
+Israel,ISR,21
+Australia,AUS,21
+Ukraine,UKR,18
+Italy,ITA,17
+Russia,RUS,16
+Brazil,BRA,14
+Switzerland,CHE,11
+Netherlands,NLD,11
+Czechia,CZE,11
+China,CHN,10
+Spain,ESP,10
+Poland,POL,9
+Sri Lanka,LKA,9
+Belgium,BEL,9
+South Africa,ZAF,9
+Singapore,SGP,7
+Romania,ROU,7
+Sweden,SWE,7
+Denmark,DNK,7
+Norway,NOR,7
+Pakistan,PAK,7
+Austria,AUT,6
+Turkey,TUR,6
+Malaysia,MYS,6
+Greece,GRC,6
+Ireland,IRL,5
+Iran,IRN,5
+Bulgaria,BGR,5
+Lithuania,LTU,4
+Finland,FIN,4
+Portugal,PRT,4
+Saudi Arabia,SAU,4
+Hungary,HUN,4
+Slovenia,SVN,3
+Japan,JPN,3
+Estonia,EST,3
+Kenya,KEN,3
+Philippines,PHL,3
+Thailand,THA,3
+Slovakia,SVK,3
+New Zealand,NZL,3
+Belarus,BLR,3
+Indonesia,IDN,2
+Bangladesh,BGD,2
+Armenia,ARM,2
+Serbia,SRB,2
+Kazakhstan,KAZ,2
+Hong Kong,HKG,2
+Croatia,HRV,2
+South Korea,KOR,2
+Mexico,MEX,2
+Vietnam,VNM,2
+Myanmar (Burma),MMR,2
+Nepal,NPL,1
+Tanzania,TZA,1
+Argentina,ARG,1
+Antarctica,ATA,1
+Georgia,GEO,1
+Bosnia and Herzegovina,BIH,1
+Montenegro,MNE,1
+Macedonia (FYROM),MKD,1
+Egypt,EGY,1
+Paraguay,PRY,1
+Luxembourg,LUX,1
+Palestine,PSE,1
+Taiwan,TWN,1
+U.S. Virgin Islands,VIR,1
+Malta,MLT,1
+United Arab Emirates,ARE,1
+Venezuela,VEN,1
+Lebanon,LBN,1
